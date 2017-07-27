@@ -835,11 +835,11 @@ Here i am giving provision to Update User information
  
 # After register successfully send Email
 
-![Success](http://https://github.com/RamyaSivamani/webapp/blob/master/images/RegisterPage.png)
+![Success](https://github.com/RamyaSivamani/webapp/blob/master/images/RegisterPage.png)
 
 # view mail page to send information
 
-![Mail](http://https://github.com/RamyaSivamani/webapp/blob/master/images/MailPage.png)
+![Mail](https://github.com/RamyaSivamani/webapp/blob/master/images/MailPage.png)
 
 # Update page 
 
