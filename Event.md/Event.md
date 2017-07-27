@@ -821,7 +821,7 @@ Here i am giving provision to Update User information
 
  # login page 
 
- ![homepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Homepage.png)
+ ![homepage](https://github.com/RamyaSivamani/webapp/blob/master/images/HomePage.png)
 
 
 # Register page
@@ -830,7 +830,7 @@ Here i am giving provision to Update User information
 
 # User Option  
 
- ![welcomepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Welcomepage.png)
+ ![welcomepage](https://github.com/RamyaSivamani/webapp/blob/master/images/WelcomePage.png)
 
  
 # After register successfully send Email
@@ -843,11 +843,11 @@ Here i am giving provision to Update User information
 
 # Update page 
 
- ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Updatepage.png)
+ ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/UpdatePage.png)
  
  #  After Update page 
 
- ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Updatepage1.png)
+ ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/UpdatePage1.png)
 
 
 # Delete page
