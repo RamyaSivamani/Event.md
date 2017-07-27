@@ -841,6 +841,11 @@ Here i am giving provision to Update User information
 
 ![Mail](https://github.com/RamyaSivamani/webapp/blob/master/images/MailPage.png)
 
+# view Page
+
+![view](https://github.com/RamyaSivamani/webapp/blob/master/images/ViewPage.png)
+
+
 # Update page 
 
  ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/UpdatePage.png)
