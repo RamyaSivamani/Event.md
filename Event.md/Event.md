@@ -36,7 +36,7 @@ public void setDob(String dob) {
 ```
 ``Here I am using OOPS concept ``
 
-#UserCrud
+# UserCrud
 
 ```import java.lang.*;
 import java.sql.DriverManager;
@@ -644,9 +644,9 @@ public class UpdateUser extends HttpServlet {
 ```
 Here i am giving provision to Update User information
 
-#JSP Files
+# JSP Files
 
-#1.welcome.jsp
+# 1.welcome.jsp
 
 ```
 <html>
@@ -692,7 +692,7 @@ Here i am giving provision to Update User information
     </body>
 </html>
 ```
-#welcome1.jsg
+# welcome1.jsg
 
 ```
 <html>
@@ -722,7 +722,7 @@ Here i am giving provision to Update User information
 </body>
 </html>
 ```
-#registration.jsg
+# registration.jsg
 
 ```
 <html>
@@ -766,7 +766,7 @@ Here i am giving provision to Update User information
     </body>
 </html>
 ```
-#delete.jsp
+# delete.jsp
 
 ```
 <center>
@@ -792,7 +792,7 @@ Here i am giving provision to Update User information
 </table>
 </center>
 ```
-#update.jsp
+# update.jsp
 
 ```
 
@@ -817,6 +817,39 @@ Here i am giving provision to Update User information
 </table>
  </center>
  ```
-ScreenShots:
-![homepage](http://https://github.com/RamyaSivamani/webapp/blob/master/images/Homepage.png)
+# Screenshots:
+
+ # login page 
+
+ ![homepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Homepage.png)
+
+
+# Register page
+
+![Form](https://github.com/RamyaSivamani/webapp/blob/master/images/RegisterForm.png)
+
+# User Option  
+
+ ![welcomepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Welcomepage.png)
+
+ 
+# After register successfully send Email
+
+![Success](http://https://github.com/RamyaSivamani/webapp/blob/master/images/RegisterPage.png)
+
+# view mail page to send information
+
+![Mail](http://https://github.com/RamyaSivamani/webapp/blob/master/images/MailPage.png)
+
+# Update page 
+
+ ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Updatepage.png)
+ 
+ #  After Update page 
+
+ ![updatepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Updatepage1.png)
+
+
+# Delete page
+
 ![images](https://github.com/RamyaSivamani/webapp/blob/59a9c2ea30f5db61af683817c29bafb47fce84a0/images/DeletePage.png)
