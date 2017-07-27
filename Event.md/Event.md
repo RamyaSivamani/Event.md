@@ -821,7 +821,7 @@ Here i am giving provision to Update User information
 
  # login page 
 
- ![homepage](https://github.com/RamyaSivamani/webapp/blob/master/images/HomePage.png)
+ ![homepage](https://github.com/RamyaSivamani/webapp/blob/master/images/Homepage.png)
 
 
 # Register page
