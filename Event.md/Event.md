@@ -817,3 +817,4 @@ Here i am giving provision to Update User information
 </table>
  </center>
  ```
+![images](https://github.com/RamyaSivamani/webapp/blob/59a9c2ea30f5db61af683817c29bafb47fce84a0/images/DeletePage.png)
